@@ -6,4 +6,4 @@ add by vim commond!
 add by vim again!
 add by txt!
 test for web
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
